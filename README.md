@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **finger print voting system**
 
-- 🌱 I’m currently learning **ai&ml**
+- 🌱 I’m currently learning **AI&ML**
 
 - 👯 I’m looking to collaborate on **Network Packet Analyzer**
 
