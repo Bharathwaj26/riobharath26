@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Network Packet Analyzer**
 
-- 👨‍💻 my portfolio [https://riobharath.neocities.org/rio/home](https://riobharath.neocities.org/rio/home)
+- 👨‍💻 my portfolio [[https://riobharath.neocities.org/rio/home](https://riobharath.neocities.org/rio/)](https://riobharath.neocities.org/rio/home)
 
 - 📫 How to reach me **riobharath74@gmail.com**
 
