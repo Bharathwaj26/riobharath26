@@ -1,31 +1,185 @@
+
+
 <h1 align="center">Hi 👋, I'm BHARATHWAJ JS</h1>
-<h3 align="center">Passionate about cybersecurity, aspiring to be a Cyber Security Analyst. Skilled in ethical hacking, networking, and web security. Continuously learning and exploring the latest in cybersecurity to enhance my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathwaj26&label=Profile%20views&color=0e75b6&style=flat" alt="bharathwaj26" /> </p>
+<h3 align="center">
+☁️ Cloud & DevOps Engineer | AWS | Linux | Python | DevOps | Ethical Hacking
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathwaj26" alt="bharathwaj26" /></a> </p>
-
-- 🔭 I’m currently working on **finger print voting system**
-
-- 🌱 I’m currently learning **AI&ML**
-
-- 👯 I’m looking to collaborate on **Network Packet Analyzer**
-
-- 👨‍💻 my portfolio [[https://riobharath.neocities.org/rio/home](https://riobharath.neocities.org/rio/)](https://riobharath.neocities.org/rio/home)
-
-- 📫 How to reach me **riobharath74@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/js-bharathwaj-8428612a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/js-bharathwaj-8428612a1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/riobharath74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/riobharath74" height="30" width="40" /></a>
+<p align="center">
+Passionate about Cloud Computing, DevOps, and Linux Administration. I enjoy building scalable cloud infrastructure, automating deployments, and continuously learning modern DevOps technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathwaj26&show_icons=true&locale=en&layout=compact" alt="bharathwaj26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwaj26&show_icons=true&locale=en" alt="bharathwaj26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathwaj26&" alt="bharathwaj26" /></p>
+---
+
+# 🚀 About Me
+
+- ☁️ Aspiring Cloud & DevOps Engineer
+- 🌱 Currently learning **AWS, Docker, Kubernetes, Terraform & Ansible**
+- 🔭 Working on Cloud Infrastructure & Automation Projects
+- 💼 Completed a Freelance Retail Shop Billing Management System
+- 👯 Looking to collaborate on Cloud & DevOps Projects
+- 📫 Email: **riobharath74@gmail.com**
+- ⚡ Fun Fact: I enjoy automating repetitive tasks using Linux and Shell Scripting.
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/js-bharathwaj-8428612a1/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/riobharath74" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=jenkins" height="45"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+
+</p>
+
+---
+
+# 💼 Freelance Experience
+
+## 🛒 Retail Shop Billing Management System
+
+**Role:** Freelance Full Stack Developer
+
+**Client:** Local Retail Shop
+
+**Tech Stack:** Angular, Node.js, Express.js, MySQL, REST API
+
+### Description
+
+Developed a custom billing management system to automate billing, inventory management, and customer records for a retail shop.
+
+### Features
+
+- Product Management
+- Billing & Invoice Generation
+- Inventory Management
+- Customer Management
+- Sales Reports
+- User Authentication
+- REST API Integration
+
+### Responsibilities
+
+- Developed the frontend using Angular.
+- Built backend REST APIs using Node.js and Express.js.
+- Designed and managed the MySQL database.
+- Integrated frontend and backend modules.
+- Tested APIs using Postman.
+- Fixed bugs and improved application performance.
+
+### Outcome
+
+- Reduced manual billing work.
+- Improved inventory tracking.
+- Increased billing accuracy.
+- Successfully deployed for daily retail shop operations.
+
+---
+
+# 🚀 Featured Projects
+
+## 🐧 Linux Automated File Transfer System
+
+**Tech Stack:** Linux, Bash Shell Scripting, Apache, Cron
+
+- Automated secure file transfers using shell scripts.
+- Scheduled recurring jobs using Cron.
+- Managed Linux file permissions and Apache configuration.
+- Reduced manual intervention through automation.
+
+---
+
+## 🌐 IT Company Network Management System
+
+**Tech Stack:** Cisco Packet Tracer, CCNA
+
+- Designed an enterprise network infrastructure.
+- Configured VLANs, OSPF, DHCP, DNS, ACLs, and Inter-VLAN Routing.
+- Implemented secure communication and network segmentation.
+- Simulated a real-world corporate network.
+
+---
+
+## ☁️ AWS Cloud Infrastructure *(Learning Project)*
+
+**Tech Stack:** AWS EC2, S3, IAM, VPC, RDS, CloudWatch
+
+- Provisioned AWS cloud resources.
+- Configured secure networking using VPC and Security Groups.
+- Managed EC2, S3, IAM, and CloudWatch.
+- Explored scalable and highly available cloud architecture.
+
+---
+
+## 🚀 CI/CD Pipeline with Jenkins *(Learning Project)*
+
+**Tech Stack:** Jenkins, GitHub
+
+- Configured Jenkins for Continuous Integration.
+- Integrated GitHub repositories.
+- Automated build and deployment workflows.
+- Learned DevOps automation best practices.
+
+
+
+
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathwaj26&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+- Ansible
+- Linux Administration
+- GitHub Actions
+- Prometheus & Grafana
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
